@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sydmin
-- 👀 I’m interested in data analyst
+- 👀 I’m interested in data analysis
 - 🌱 I’m currently learning financial modelling
 
 <!---
